@@ -1,5 +1,5 @@
 # That's me!
-a Business Informatics student turning coffee, curiosity, and code into useful projects.
+I'm Ngan or Jenny. A Business Informatics student interested in data analytics, digital transformation, and turning raw data into business insight
 
 I enjoy working where business and technology meet: analyzing data, building small software solutions, and asking “Can we automate this?” before doing something manually.
 
